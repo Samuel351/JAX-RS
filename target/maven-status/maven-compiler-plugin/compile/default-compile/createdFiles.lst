@@ -1,0 +1,10 @@
+com\samuel\server\resource\DepartamentResource.class
+com\samuel\server\resource\WorkerResource.class
+com\samuel\server\resource\DatabaseResource.class
+com\samuel\server\service\WorkerService.class
+com\samuel\server\database\Database.class
+com\samuel\server\model\Departament.class
+com\samuel\server\model\Worker.class
+com\samuel\server\model\Link.class
+com\samuel\server\service\DepartamentService.class
+com\samuel\server\service\LinkService.class
